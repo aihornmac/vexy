@@ -1,0 +1,23 @@
+{
+  "name": "vexy",
+  "version": "0.0.1",
+  "description": "A flexible react UI library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aihornmac/vexy.git"
+  },
+  "keywords": [
+    "react",
+    "ui"
+  ],
+  "author": "Aihorn Mac <aihornmac@ihawn.com> (https://ihawn.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aihornmac/vexy/issues"
+  },
+  "homepage": "https://github.com/aihornmac/vexy#readme"
+}
